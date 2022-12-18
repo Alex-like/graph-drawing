@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" viewBox="-55.5 -70.5859 94 161.956">
+	<g>
+		<g>
+			<polygon points="27.228,5,25.6993,7.68804,24.6142,6.65242," stroke="#000000" />
+			<path fill="none" d=" M-49,84.8705 L27.228,5" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="27,-4.6439,24.2914,-6.13597,25.3122,-7.23504," stroke="#000000" />
+			<path fill="none" d=" M-37,-64.0859 L27,-4.6439" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="-37.4028,-59.0859,-36.8961,-56.0353,-38.3913,-56.1558," stroke="#000000" />
+			<path fill="none" d=" M-49,84.8705 L-37.4028,-59.0859" stroke="#000000" />
+		</g>
+	</g>
+	<g>
+		<rect x="27" y="-5.000000000000008" width="10" height="10" fill="#0AEC6D" stroke-width="1.000000px" stroke="#000000" />
+		<text x="32" y="3.999999999999992" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3</text>
+	</g>
+	<g>
+		<rect x="-42.000000000000036" y="-69.085879880048438" width="10" height="10" fill="#0AEC6D" stroke-width="1.000000px" stroke="#000000" />
+		<text x="-37.000000000000036" y="-60.085879880048438" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2</text>
+	</g>
+	<g>
+		<rect x="-53.999999999999979" y="79.870489570875009" width="10" height="10" fill="#0AEC6D" stroke-width="1.000000px" stroke="#000000" />
+		<text x="-48.999999999999979" y="88.870489570875009" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1</text>
+	</g>
+</svg>
